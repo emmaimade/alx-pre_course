@@ -1,1 +1,1 @@
-This is the first description of the ALX Git project
+This is the first description of the ALX SE git project
